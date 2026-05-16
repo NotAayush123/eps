@@ -1,0 +1,223 @@
+
+
+
+Epicureanism, less commonly Epicurism, is a school of philosophy founded in 307 BCE and based upon the teachings of Epicurus, an ancient Greek philosopher. Epicurus was an atomist and materialist, following in the steps of Democritus. His materialism led him to religious skepticism and a general attack on superstition and divine intervention. Epicureanism was originally a challenge to Platonism, and its main opponent later became Stoicism. It is a form of hedonism insofar as it declares pleasure to be its sole intrinsic goal. However, the concept that the absence of pain and fear constitutes the greatest pleasure, and its advocacy of a simple life, make it very different from hedonism as colloquially understood.
+
+
+Following the Cyrenaic philosopher Aristippus, Epicurus believed that the greatest good was to seek modest, sustainable pleasure in the form of a state of ataraxia (tranquility and freedom from fear) and aponia (the absence of bodily pain) through knowledge of the workings of the world and limiting desires. Correspondingly, Epicurus and his followers generally withdrew from politics because it could lead to frustrations and ambitions that would conflict with their pursuit of virtue and peace of mind.
+
+
+Few writings by Epicurus have survived. Diogenes Laertius has preserved three instructional letters attributed to Epicurus, as well as a list of the Principal Doctrines of Epicureanism. The letters to Herodotus and to Menoeceus are generally accepted as authentic works written by Epicurus himself. However, the letter addressed to Pythocles is often considered to be a compilation by one of his students, likely based on Epicurus’ original writings. There are also independent attestations of his ideas from both early opponents such as Clement of Alexandria, Plutarch, and Cicero, and later disciples who defended his views such as a speech of Lucius Manlius Torquatus defending Epicurean ethics and Gaius Velleius's speech defending the Epicurean conception of the gods in the works of Cicero, along with Colotes, who Plutarch responds to in his writings. The epic poem De rerum natura (Latin for "On the Nature of Things") by Lucretius presents the core arguments and theories of Epicureanism in one unified work. Many Epicurean texts have also been found on scrolls unearthed at the Villa of the Papyri in Herculaneum, mostly works written by the Epicurean philosopher Philodemus or his teacher Zeno of Sidon, along with fragments of works by Epicurus himself. Diogenes of Oenoanda, a wealthy Epicurean in the 2nd century CE, had a portico wall inscribed with tenets of the philosophy erected in Oenoanda, Lycia (present-day Turkey). 
+
+
+Epicureanism flourished in the Late Hellenistic period and during the Roman era, and many Epicurean communities were established in places such as Antioch, Alexandria, Rhodes, and Herculaneum. By the late 3rd century CE, Epicureanism had all but died out, being opposed by other philosophies (mainly Neoplatonism) that were then in the ascent. Interest in Epicureanism was resurrected in the Age of Enlightenment and continues in the modern era.
+
+
+History
+
+Epicurus, the founder of the Epicurean School, was born in 342/1 BCE on the island of Samos. In his early years, he studied under Pamphilus, a Platonist philosopher in Samos. Later, he received instruction from Nausiphanes of Teos, a follower of Democritus. Although Epicurus would later downplay these early influences, it is generally acknowledged that Nausiphanes had a significant impact on the development of his thought. At the age of eighteen, Epicurus traveled to Athens for military service. After completing his duties, he devoted himself entirely to philosophy while living in Colophon. Epicurus taught and gained followers in Mytilene, the capital of the island Lesbos, and then in Lampsacus. In Athens, Epicurus bought a property for his school called "Garden", which later became the name of Epicurus' school. Its members included Hermarchus, Idomeneus, Colotes, Polyaenus, and Metrodorus. Epicurus emphasized friendship as an important ingredient of happiness, and the school seems to have been a moderately ascetic community that rejected the political limelight of Athenian philosophy. They were fairly cosmopolitan by Athenian standards, including women and slaves. Community activities held some importance, particularly the observance of Eikas, a monthly social gathering. Some members were also vegetarians, as, from slight evidence, Epicurus did not eat meat, although no prohibition against eating meat was made.
+
+
+The school's popularity grew and it became, along with Stoicism, Platonism, Peripateticism, and Pyrrhonism, one of the dominant schools of Hellenistic philosophy, lasting strongly through the later Roman Empire. Deciphered carbonized scrolls obtained from the library at the Villa of the Papyri in Herculaneum contain a large number of works by Philodemus, a late Hellenistic Epicurean, and Epicurus himself, attesting to the school's enduring popularity. Julius Caesar also leaned considerably toward Epicureanism, which led to his plea against the death sentence during the trial against Catiline, during the Catiline conspiracy where he spoke out against the Stoic Cato. His father-in-law, Lucius Calpurnius Piso Caesoninus, was also an adept of the school. In the 2nd century CE, comedian Lucian of Samosata and wealthy promoter of philosophy Diogenes of Oenoanda were prominent Epicureans.
+
+
+After the death of Epicurus, leadership of the school passed to Hermarchus, who was originally from Mytilene. He was succeeded by Polystratus. Among Epicurus' closest students were Hermarchus, Polyaenus, and Metrodorus of Lampsacus. 
+
+
+One of the earliest Roman writers espousing Epicureanism was Amafinius, although his work has not survived. The Roman philosopher Cicero later wrote that he had listened to Phaedrus, who served as the head of the Athenian school around 90 BCE and had come to Rome. Cicero additionally preserves arguments by Roman consul Lucius Manlius Torquatus and Gaius Velleius defending Epicureanism in his works. However, the most well-known follower of Epicureanism was the Roman poet Titus Lucretius Carus (c. 91–51 BCE). Lucretius expressed Epicurus' philosophical ideas in his didactic poem De Rerum Natura (On the Nature of Things). The main goal of this work was to free people from the fear of the gods and death, and to guide them toward achieving inner peace and tranquility. The Epicurean philosopher Philodemus of Gadara, until the 18th century only known as a poet of minor importance, rose to prominence as much of his work, along with other Epicurean material such as the lectures of Zeno of Sidon, was discovered in the Villa of the Papyri.  Another ancient Epicurean is Diogenes of Oenoanda, in the 2nd century CE, who composed a large inscription at Oenoanda in Lycia.  Diogenes Laërtius reports slanderous stories, circulated by Epicurus' opponents.
+
+
+By the late third century CE, however, there was little trace of its existence. 
+With growing dominance of Neoplatonism and Peripateticism, and later, Christianity, Epicureanism declined.
+
+
+Philosophy
+
+Physics
+
+In his letter to Herodotus (not the historian), Epicurus presented three principles as to the nature of the physical world, i.e. that which exists cannot come into being from that which does not exist, that which is destroyed does not cease to exist, and all that exists now always did exist and always will. The object of these principles was to establish the fact that all that constitutes the world is permanent and unchanging. Epicurean physics held that the entire universe consisted of two things: matter and void. Matter is made up of atoms, which are tiny bodies that have only the unchanging qualities of shape, size, and weight. The Epicureans believed that atoms were unchanging because the world was ordered and that changes had to have specific and consistent sources, e.g. a plant species only grows from a seed of the same species, but that in order for the universe to persist, what it is ultimately made up of must not be able to be changed or else the universe would be essentially destroyed.
+
+
+Epicurus holds that there must be an infinite supply of atoms, although only a finite number of types of atoms, as well as an infinite amount of void. Epicurus explains this position in his letter to Herodotus:
+
+
+Moreover, the sum of things is unlimited both by reason of the multitude of the atoms and the extent of the void. For if the void were infinite and bodies finite, the bodies would not have stayed anywhere but would have been dispersed in their course through the infinite void, not having any supports or counterchecks to send them back on their upward rebound. Again, if the void were finite, the infinity of bodies would not have anywhere to be.
+
+ Because of the infinite supply of atoms, there are an infinite number of worlds, or cosmoi. Some of these worlds could be vastly different from our own, some quite similar, and all of the worlds were separated from each other by vast areas of void (metakosmia).
+
+
+Epicureanism states that atoms are unable to be broken down into any smaller parts because void is necessary for matter to move. Anything that consists of both void and matter can be broken down, while if something contains no void, then it has no way to break apart because no part of the substance could be broken down into a smaller subsection of the substance. Atoms are constantly moving in one of four different ways. Atoms can simply collide with each other and then bounce off of each other. When joined with each other and forming a larger object, atoms can vibrate as they collide into each other while still maintaining the overall shape of the larger object.
+
+
+When not prevented by other atoms, all atoms move at the same speed naturally downwards in relation to the rest of the world. This downwards motion is natural for atoms; however, as their fourth means of motion, atoms can at times randomly swerve out of their usual downwards path. This swerving motion is what allowed for the creation of the universe, since as more and more atoms swerved and collided with each other, objects were able to take shape as the atoms joined. Without the swerve, the atoms would never have interacted with each other, and simply continued to move downwards at the same speed. Epicurus also felt that the swerve was what accounted for humanity's free will. If it were not for the swerve, humans would be subject to a never-ending chain of cause and effect. This was a point which Epicureans often used to criticize Democritus' atomic theory.
+
+
+Epistemology
+
+Epicurean philosophy employs an empirical epistemology, one based on the senses.
+
+
+Sense perception
+
+Epicureans believed that the senses also relied on atoms. Every object was continually emitting particles from itself that would then interact with the observer. All sensations, such as sight, smell, or sound, relied on these particles. While the atoms that were emitted did not have the qualities that the senses were perceiving, the manner in which they were emitted caused the observer to experience those sensations, e.g. red particles were not themselves red but were emitted in a manner that caused the viewer to experience the color red. The atoms are not perceived individually, but rather as a continuous sensation because of how quickly they move.
+
+
+The Epicureans believed that all sense perceptions were true, and that errors arise in how we judge those perceptions. When we form judgments about things (hupolepsis), they can be verified and corrected through further sensory information. For example, if someone sees a tower from far away that appears to be round, and upon approaching the tower they see that it is actually square, they would come to realize that their original judgement was wrong and correct their wrong opinion.
+
+
+Criterion of truth
+
+Epicurus is said to have proposed three criteria of truth: sensations (aisthêsis), preconceptions (prolepsis), and feelings (pathê). A fourth criterion called "presentational applications of the mind" (phantastikai epibolai tês dianoias) was said to have been added by later Epicureans. These criteria formed the method through which Epicureans thought we gained knowledge.
+
+
+Since Epicureans thought that sensations could not deceive, sensations are the first and main criterion of truth for Epicureans. Even in cases where sensory input seems to mislead, the input itself is true and the error arises from our judgments about the input. For example, when one places a straight oar in the water, it appears bent. The Epicurean would argue that the image of the oar, that is, the atoms traveling from the oar to the observer's eyes, has been shifted and thus really does arrive at the observer's eyes in the shape of a bent oar. The observer makes the error in assuming that the image he or she receives correctly represents the oar and has not been distorted in some way. In order not to make erroneous judgments about perceivable things and instead verify one's judgment, Epicureans believed that one needed to obtain "clear vision" (enargeia) of the perceivable thing by closer examination. This acted as a justification for one's judgements about the thing being perceived. Enargeia is characterized as sensation of an object that has been unchanged by judgments or opinions and is a clear and direct perception of that object.
+
+
+An individual's preconceptions are his or her concepts of what things are, e.g. what someone's idea of a horse is, and these concepts are formed in a person's mind through sensory input over time. When the word that relates to the preconception is used, these preconceptions are summoned up by the mind into the person's thoughts. It is through our preconceptions that we are able to make judgments about the things that we perceive. Preconceptions were also used by Epicureans to avoid the paradox proposed by Plato in the Meno regarding learning. Plato argues that learning requires us to already have knowledge of what we are learning, or else we would be unable to recognize when we had successfully learned the information. Preconceptions, Epicureans argue, provide individuals with that pre-knowledge required for learning.
+
+
+Our feelings or emotions (pathê) are how we perceive pleasure and pain. They are analogous to sensations in that they are a means of perception, but they perceive our internal state as opposed to external things. According to Diogenes Laertius, feelings are how we determine our actions. If something is pleasurable, we pursue that thing, and if something is painful, we avoid that thing.
+
+
+The idea of "presentational applications of the mind" is an explanation for how we can discuss and inquire about things we cannot directly perceive. We receive impressions of such things directly in our minds, instead of perceiving them through other senses. The concept of "presentational applications of the mind" may have been introduced to explain how we learn about things that we cannot directly perceive, such as the gods.
+
+
+Ethics
+
+Epicureanism bases its ethics on a hedonistic set of values, seeing pleasure as the chief good in life and pain as the chief evil. Unlike other schools which considered virtue the supreme good such as Stoicism, he considered the virtues to be an instrumental but essential good to living a pleasant life, all stemming from practical wisdom on how to live pleasantly. Hence, Epicurus advocated living in such a way as to derive the greatest amount of pleasure possible during one's lifetime, yet doing so moderately in order to avoid the suffering incurred by indulgence in pleasures that could cause pain. Along with moderation of one's desires and the virtues, he also considered the acquisition of friendship to be central to this goal of living pleasantly, considering it the greatest means to secure happiness. He also considered the study of the natural world necessary to dispel fears about mythology. The Epicurean views on marriage and having children are disputed with some considering him strongly anti-marriage and anti-family unless circumstances forced one to and others thinking he only warned against imprudent marriage and child-rearing when circumstances made it unwise. Additionally, he viewed recreational sex as a natural, but not necessary, desire that never benefited a man, since it didn't relive any pain, and one must be content with it not harming him. Since the political life could give rise to desires that could disturb virtue and one's peace of mind, such as a lust for power or a desire for fame, participation in politics was discouraged. Further, Epicurus sought to eliminate the fear of the gods and of death, seeing those two fears as chief causes of strife in life.
+
+
+Pleasure
+
+When we say ... that pleasure is the end and aim, we do not mean the pleasures of the prodigal or the pleasures of sensuality, as we are understood to do by some through ignorance, prejudice or wilful misrepresentation. By pleasure we mean the absence of pain in the body and of trouble in the soul. It is not by an unbroken succession of drinking bouts and of revelry, not by sexual lust, nor the enjoyment of fish and other delicacies of a luxurious table, which produce a pleasant life; it is sober reasoning, searching out the grounds of every choice and avoidance, and banishing those beliefs through which the greatest tumults take possession of the soul.
+
+— Epicurus, "Letter to Menoeceus"
+
+Epicureans had a very specific understanding of what the greatest pleasure was, and the focus of their ethics was on the avoidance of pain rather than seeking out pleasure, arguing that pleasure reaches its maximum in the removal of all sources of pain, either mental or bodily. Sometimes, however, we must accept pain or avoid pleasures to avoid greater pain or to secure greater pleasures. As evidence for this, Epicureans say that nature seems to command us to avoid pain, and they point out that all animals try to avoid pain as much as possible. Epicureanism divided pleasure into two broad categories: pleasures of the body and pleasures of the mind. Pleasures of the body involve sensations of the body, such as the act of eating delicious food or of being in a state of comfort free from pain, and exist only in the present. One can only experience pleasures of the body in the moment, meaning they only exist as a person is experiencing them. Pleasures of the mind involve mental processes and states; feelings of joy, the lack of fear, and pleasant memories are all examples of pleasures of the mind. These pleasures of the mind do not only exist in the present, but also in the past and future, since memory of a past pleasant experience or the expectation of some potentially pleasing future can both be pleasurable experiences. Because of this, the pleasures of the mind are considered to be greater than those of the body.
+
+
+Emphasis was placed on pleasures of the mind rather than on physical pleasures. The Epicureans further divided each of these types of pleasures into two categories: kinetic pleasure and katastematic pleasure. Absence of pain, aponia, and lack of disturbance of mind, ataraxia, are two of the katastematic pleasures and often seen as the focal ones to Epicurus. Kinetic pleasure is the physical or mental pleasures that involve action or change. Eating delicious food, as well as fulfilling desires and removing pain, which is itself considered a pleasurable act, are all examples of kinetic pleasure in the physical sense. According to Epicurus, feelings of joy would be an example of mental kinetic pleasure. Katastematic pleasure is the pleasure one feels while in a state without pain. Like kinetic pleasures, katastematic pleasures can also be physical, such as the state of not being thirsty, or mental, such as freedom from a state of fear.
+
+
+While the pursuit of pleasure formed the focal point of the philosophy, this was largely directed to the "static pleasures" of minimizing pain, anxiety and suffering. From this understanding, Epicureans concluded that the greatest pleasure a person could reach was the complete removal of all pain, both physical and mental. The ultimate goal then of Epicurean ethics was to reach a state of aponia and ataraxia.
+
+
+Desire
+
+Nature must be persuaded, not forced. And we will persuade nature by fulfilling the necessary desires, and the natural desires too if they cause no harm, but sharply rejecting the harmful desires.
+
+— Epicurus, Vatican Sayings, 21
+
+In order to do this an Epicurean had to control their desires, because desire itself can often be painful. Not only will controlling one's desires bring about aponia, as one will rarely suffer from not being physically satisfied, but controlling one's desires will also help to bring about ataraxia because one will not be anxious about becoming discomforted since one has few desires, which are very easy to fulfill. The Epicureans divide desires into three classes: natural and necessary, natural but not necessary, and unnatural and unnecessary
+
+
+If one follows only natural and necessary desires, then, according to Epicurus, one would be able to reach aponia and ataraxia and thereby the highest form of happiness. Unnecessary desires were to be treated with caution so as to not cause pain but fine to fulfill if they did not, and unnatural and unnecessary desires were to be eliminated.
+
+
+Politics
+
+It is impossible to live a pleasant life without living wisely and well and justly, and it is impossible to live wisely and well and justly without living a pleasant life.
+
+The Epicurean understanding of justice was inherently self-interested. Justice was deemed good because it was seen as mutually beneficial pact to neither harm nor be harmed. Individuals would not act unjustly even if the act was initially unnoticed because of possibly being caught and punished. Both punishment and fear of punishment would cause a person disturbance and prevent them from being happy.
+
+
+Epicurus was also an early thinker to develop the notion of justice as a social contract, and in part attempts to address issues with the society described in Plato's Republic. The social contract theory established by Epicureanism is based on mutual agreement, not divine decree. He defined justice as an agreement made by people not to harm each other. The point of living in a society with laws and punishments is to be protected from harm so that one is free to pursue happiness. Because of this, laws that do not contribute to promoting human happiness are not just. He gave his own unique version of the ethic of reciprocity, which differs from other formulations by emphasizing minimizing harm and maximizing happiness for oneself and others.
+
+
+Epicurean ideas on politics disagree with other philosophical traditions, namely the Stoic, Platonist and Aristotelian traditions. To Epicureans all our social relations are a matter of how we perceive each other, of customs and traditions. No one is inherently of higher value or meant to dominate another. That is because there is no metaphysical basis for the superiority of one kind of person; all people are made of the same atomic material and are thus naturally equal. Epicureans also discourage political participation and other involvement in politics. However, Epicureans are not apolitical; it is possible that some political association could be seen as beneficial by some Epicureans. Some political associations could lead to certain benefits to the individual that would help to maximize pleasure and avoid physical or mental distress.
+
+
+Friendship
+
+of all the things which wisdom has contrived which contribute to a blessed life, none is more important, more fruitful, than friendship
+
+— quoted by Cicero
+
+Epicurus laid great emphasis on developing friendships as the basis of a satisfying life. The avoidance or freedom from hardship and fear is ideal to the Epicureans. While this avoidance or freedom could conceivably be achieved through political means, it was insisted by Epicurus that involvement in politics would not release one from fear and he advised against a life of politics. Epicurus strongly encouraged the formation of a community of friends outside the traditional political state. This community of virtuous friends would focus on internal affairs and justice. Epicurus's thoughts on marriage and having children is more disputed, Epicurus himself seems to have been unmarried but his close friend Metrodorus was, and named one of his sons after Epicurus, and in his will Epicurus provided for the daughters of Metrodorus to marry, this dispute is also seen in the contradictory translations of the "wise man sayings" of Diogenes Laertius, in whether the Epicurean wise man will marry and have children or whether he will not unless circumstances require. However, Epicureanism is adaptable to circumstance, as is the Epicurean approach to politics. The same approaches will not always work in protection from pain and fear. In some situations, it will be more beneficial to have a family, and in other situations, it will be more beneficial to participate in politics. It is ultimately up to the Epicurean to analyze their circumstance and take whatever action befits the situation.
+
+
+Death
+
+Epicureanism rejects immortality. It believes in the soul, but suggests that the soul is mortal and material, just like the body. Epicurus rejected any possibility of an afterlife, while still contending that one need not fear death: "Death is nothing to us; for that which is dissolved, is without sensation, and that which lacks sensation is nothing to us." From this doctrine arose the Epicurean Epitaph: Non fui, fui, non sum, non curo ("I was not; I was; I am not; I do not care."), which is inscribed on the gravestones of his followers and seen on many ancient gravestones of the Roman Empire.
+
+
+Gods
+
+Epicureanism does not deny the existence of the gods; rather, it denies their involvement in the world. According to Epicureanism, the gods do not interfere with human lives or the rest of the universe in any way – thus, it shuns the idea that frightening weather events are divine retribution. One of the fears the Epicurean ought to be freed from is fear relating to the actions of the gods.
+
+
+The manner in which the Epicurean gods exist is still disputed. Some scholars say that Epicureanism believes that the gods exist outside the mind as material objects (the realist position), while others assert that the gods only exist in our minds as ideals (the idealist position). The realist position holds that Epicureans understand the gods as existing as physical and immortal beings made of atoms that reside somewhere in reality. However, the gods are completely separate from the rest of reality; they are uninterested in it, play no role in it, and remain completely undisturbed by it. Instead, the gods live in what is called the metakosmia, or the space between worlds. Contrarily, the idealist (sometimes called the "non-realist position" to avoid confusion) position holds that the gods are just idealized forms of the best human life, and it is thought that the gods were emblematic of the life one should aspire towards. The debate between these two positions was revived by A. A. Long and David Sedley in their 1987 book, The Hellenistic Philosophers, in which the two argued in favour of the idealist position. While a scholarly consensus has yet to be reached, the realist position remains the prevailing viewpoint at this time.
+
+
+Legacy
+
+Later antiquity
+
+The early Christian writer Lactantius criticizes Epicurus at several points throughout his Divine Institutes and preserves the Riddle of Epicurus, or Problem of evil, a famous argument against the existence of an all-powerful and providential God or gods. This type of trilemma argument (God is omnipotent, God is good, but Evil exists) was one favoured by the ancient Greek skeptics, and this argument may have been wrongly attributed to Epicurus by Lactantius, who, from his Christian perspective, regarded Epicurus as an atheist. According to Reinhold F. Glei, it is settled that the argument of theodicy is from an academical source which is not only not Epicurean, but even anti-Epicurean. The earliest extant version of this trilemma appears in the writings of the Pyrrhonist philosopher Sextus Empiricus.
+
+
+Epikoros is a Jewish term figuratively meaning "a heretic", cited in the Mishnah, referring to one who does not have a share in the world to come Although rabbinic literature does not make any specific reference to the Greek philosopher Epicurus, it is apparent that the term is derived from the philosopher's name.
+
+
+Middle Ages and Renaissance
+
+In Dante Alighieri's Divine Comedy, the Epicureans are depicted as heretics suffering in the sixth circle of hell. In fact, Epicurus appears to represent the ultimate heresy.
+
+
+Francis Bacon wrote an apothegm related to Epicureanism:
+
+
+There was an Epicurean vaunted, that divers of other sects of philosophers did after turn Epicureans, but there was never any Epicurean that turned to any other sect. Whereupon a philosopher that was of another sect, said; The reason was plain, for that cocks may be made capons, but capons could never be made cocks. 
+
+This echoed what the Academic skeptic philosopher Arcesilaus had said when asked "why it was that pupils from all the other schools went over to Epicurus, but converts were never made from the Epicureans?" to which he responded: "Because men may become eunuchs, but a eunuch never becomes a man."
+
+
+Modern revival
+
+In the 17th century, the French Franciscan priest, scientist and philosopher Pierre Gassendi wrote two books forcefully reviving Epicureanism. Shortly thereafter, and clearly influenced by Gassendi, Walter Charleton published several works on Epicureanism in English. Attacks by Christians continued, most forcefully by the Cambridge Platonists.
+
+
+
+In modern times, Thomas Jefferson referred to himself as an Epicurean:
+
+If I had time I would add to my little book the Greek, Latin and French texts, in columns side by side. And I wish I could subjoin a translation of Gassendi's Syntagma of the doctrines of Epicurus, which, notwithstanding the calumnies of the Stoics and caricatures of Cicero, is the most rational system remaining of the philosophy of the ancients, as frugal of vicious indulgence, and fruitful of virtue as the hyperbolical extravagances of his rival sects.
+
+Other modern-day Epicureans were Gassendi, Walter Charleton, François Bernier, Saint-Évremond, Ninon de l'Enclos, Denis Diderot, Frances Wright and Jeremy Bentham.
+
+
+In France, where perfumer/restaurateur Gérald Ghislain refers to himself as an Epicurean, Michel Onfray is developing a post-modern approach to Epicureanism. In his 2011 book titled The Swerve, Stephen Greenblatt identified himself as strongly sympathetic to Epicureanism and Lucretius. Humanistic Judaism as a denomination also claims the Epicurean label.
+
+
+Similarities with eastern philosophies
+
+Some scholars have drawn parallels between Epicureanism and some eastern philosophies that similarly emphasize atomism or a lack of divine interference, such as Jainism, Charvaka, and Buddhism. Epicureanism also resembles Buddhism in its belief that great excess leads to great dissatisfaction.
+
+
+Misconceptions
+
+In modern popular usage, an Epicurean is a connoisseur of the arts of life and the refinements of sensual pleasures; Epicureanism implies a love or knowledgeable enjoyment especially of good food and drink.
+
+
+Because Epicureanism posits that pleasure is the ultimate good (telos), it has been commonly misunderstood since ancient times as a doctrine that advocates the partaking in fleeting pleasures such as sexual excess and decadent food. This is not the case. Epicurus regarded ataraxia (tranquility, freedom from fear) and aponia (absence of pain) as the height of happiness. He also considered prudence an important virtue and perceived excess and overindulgence to be contrary to the attainment of ataraxia and aponia. Yet Epicurus referred "the good", and "even wisdom and culture", to the "pleasure of the stomach".
+
+
+While Epicurus sought moderation at meals, he was also not averse to moderation in moderation, that is, to occasional luxury. Called "The Garden" for being based in what would have been a kitchen garden, his community also became known for its Eikas (Greek εἰκάς from εἴκοσῐ eíkosi, "twenty"), feasts of the twentieth (of the Greek month), which was otherwise considered sacred to the god Apollo, and also corresponding to the final day of the rites of initiation to the mysteries of Demeter.
+
+
+Epicurea
+
+The Epicurea is a collection of texts, fragments, and testimonies by Epicurus that was collected by Hermann Usener in 1887. This work features a collection of writings by Epicurus that explain the values and beliefs of Ancient Epicurian philosophy.
+
+
+Notes
+
+Sources
+
+Primary
+
+Secondary
+
+Further reading
+
+External links
+

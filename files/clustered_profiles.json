@@ -1,0 +1,544 @@
+[
+  {
+    "philosopher": "Aquinas",
+    "core_principles": [
+      "Teleology: human life has a final end (beatitude/union with God) that orders other goods",
+      "Virtue ethics: virtues habituate and perfect powers; prudence orders reason and will",
+      "Natural law/right reason: moral norms grounded in participation in eternal/divine law",
+      "Charity and grace: theological virtues perfect nature and elevate virtues toward the supernatural end",
+      "Moral psychology: passions are natural movements that must be ordered by reason and the will",
+      "Epistemology: intellect grasps self\u2011evident first principles and demonstrative truths within its order"
+    ],
+    "attack_patterns": [
+      "Appeals to teleology and natural law to expose incoherence in anti\u2011teleological positions",
+      "Reframes freedom as ordered will (not radical self\u2011creation), using prudence and charity",
+      "Targets existentialist/nihilistic and pleasure\u2011centric accounts (Sartre, Camus, Nietzsche, Epicurus) for lacking a final end",
+      "Combines philosophical authorities (Aristotle) and theological resources (Scripture, doctrine) in rebuttal",
+      "Concedes useful elements of opponents' positions but insists on theological/metaphysical limits",
+      "Emphasizes the common good, justice, and prudential restraint when criticizing permissiveness or laxity"
+    ],
+    "defense_patterns": [
+      "Reiterates the Thomistic synthesis: nature oriented to supernatural beatitude; grace perfects nature",
+      "Restates ordering of intellect, will, and passions; defends virtues and rites as formative means, not ends",
+      "Defends the primacy of natural reason for moral knowledge while placing revelation as completion",
+      "Frames political and legal claims via natural/divine law (lex iniusta non est lex) and proportionate justice",
+      "Integrates opponents' insights (e.g., value of rites, simplicity) but situates them as subordinate instruments",
+      "Deploys systematic metaphysical argumentation to absorb and deflect criticisms within his framework"
+    ],
+    "strategic_strengths": [
+      "High coherence and internal consistency across positions",
+      "Deep metaphysical and theological resources that supply argumentative depth",
+      "Robust, resilient defenses when debate stays within teleological/theistic premises",
+      "Effective, targeted dialectical engagement that combines authority and argument",
+      "Reliable practical vocabulary (prudence, common good, law) for political/moral disputes"
+    ],
+    "typical_targets": [
+      "Existentialists (e.g., Sartre, Camus)",
+      "Nietzschean will/overman rhetoric",
+      "Taoist/Lao\u2011Tzu quietism and permissive passivity",
+      "Stoicism and extreme detachment",
+      "Cynic asceticism (Diogenes) and purely anti\u2011social renunciation",
+      "Epicurean pleasure\u2011centrism and hedonistic reductions",
+      "Moral relativists/unjust positive law (those who deny natural law constraints)",
+      "Ritualism when rites conflict with right reason (e.g., unexamined Confucian rites)"
+    ],
+    "vulnerabilities": [
+      "Dependence on acceptance of theistic/metaphysical premises (teleology, God, grace)",
+      "Relatively low originality; positions often read as traditional/predictable",
+      "Less persuasive to secular, anti\u2011metaphysical, or radical existential interlocutors",
+      "Tendency to leave immediate practical/material policy concerns (hunger, emergency needs) less directly answered",
+      "Exposed by theodical pressures (grievous gratuitous evil) and difficulties reconciling suffering with providence",
+      "Vulnerable to psychodynamic and existential critiques about autonomy, contingency, and non\u2011rational sources of behavior"
+    ],
+    "collapse_conditions": [
+      "Interlocutors consistently reject teleology, natural law, and theistic premises as illegitimate starting points",
+      "Debate is reframed to demand novel, non\u2011tradition\u2011based solutions or empirical policy answers outside Thomistic tooling",
+      "Sustained focus on urgent material/practical cases where theological remedies appear inapplicable or insufficient",
+      "Opponents successfully secularize moral vocabulary and show that final\u2011end talk is eliminable for practical reasoning"
+    ]
+  },
+  {
+    "philosopher": "Camus",
+    "core_principles": [
+      "lucidity about the absurd \u2014 clear recognition of death, suffering, and the world's indifference",
+      "sustained revolt \u2014 active, continual refusal of resignation or metaphysical escape",
+      "creation of values through concrete action and solidarity rather than appeal to transcendence",
+      "refusal of suicide and transcendental consolation as legitimate responses",
+      "preservation of human dignity and limits \u2014 opposition to instrumentalizing persons",
+      "emphasis on love/solidarity as the social basis of revolt"
+    ],
+    "attack_patterns": [
+      "charge metaphysical/consolatory doctrines (theistic or Platonic) as evasions of the absurd",
+      "denounce withdrawal/serene resignation (Epicurean, Taoist, Stoic withdrawal) as complicity or quietism",
+      "expose doctrines that aestheticize power or abstract freedom (Nietzsche, some readings of Sartre) as legitimizing violence",
+      "criticize ritualist or duty-first systems (Confucian rites, ritual deference) as masking domination",
+      "highlight consequentialist or prudential rationalizations that permit instrumentalization or murder"
+    ],
+    "defense_patterns": [
+      "reframe revolt as collective, non\u2011violent, dignity\u2011preserving solidarity",
+      "couple passion/emotion with lucidity and principled limits to avoid absolutism",
+      "assert pragmatic middle-paths that radicalize obligations without endorsing metaphysical consolations",
+      "acknowledge tragic compromises while insisting on moral limits (refuse murderous certainties)",
+      "allow narrowly circumscribed prudential exceptions while warning against complicity"
+    ],
+    "strategic_strengths": [
+      "high coherence and consistency in framing (stable, repeatable doctrine)",
+      "strong dialectical skill \u2014 effective rhetorical attacks exposing evasions and moral costs",
+      "ethical clarity focused on human dignity and limits",
+      "ability to occupy a resilient 'middle path' between quietism and absolutism",
+      "persuasive, vivid appeals to lived experience and historical examples"
+    ],
+    "typical_targets": [
+      "Aquinas / theological metaphysical consolations",
+      "Epicurus / Epicurean withdrawal",
+      "Lao Tzu / Taoist resignation",
+      "Stoics / Diogenes / Marcus-style resignation",
+      "Nietzsche (will-to-power/overman)",
+      "Confucian ritualism and duty-focused orders",
+      "Sartre-style abstract/totalizing freedom",
+      "ritualist or truth-as-domination figures (e.g., Hypatia in summaries)"
+    ],
+    "vulnerabilities": [
+      "the notion of 'lucidity' is under-specified and can be accused of lack of normative grounding",
+      "difficulty translating revolt into stable political/institutional structures",
+      "risk of revolt escalating into new tyranny if limits are not enforceable",
+      "delicate boundary between prudential deception and complicity \u2014 hard to operationalize",
+      "relative lack of resources offered for ceremonial or social functions that rituals supply"
+    ],
+    "collapse_conditions": [
+      "revolt hardens into absolutism or sanctioned violence (co\u2011option of lucidity to justify terror)",
+      "breakdown or erosion of solidaristic bonds that sustain collective revolt",
+      "failure to institutionalize or sustain revolt as a stable political order (practical institutional collapse)",
+      "widespread demand for transcendental consolation or ritual order that undermines existential lucidity",
+      "persistent under-specification of limits so critics exploit ambiguities to delegitimize the stance"
+    ]
+  },
+  {
+    "philosopher": "Confucius",
+    "core_principles": [
+      "r\u00e9n (humaneness) as the highest moral aim",
+      "l\u01d0 (rites, music, ritual) as formative practices that shape character and judgment",
+      "y\u00ec (righteousness) to correct and guide conduct within social roles",
+      "self-cultivation through study, reflection, imitation of exemplars, and sustained practice",
+      "social harmony and role\u2011based duty (family, polity) as the locus of meaning",
+      "political legitimacy contingent on virtue; remonstration or withdrawal are proper responses to wicked rule"
+    ],
+    "attack_patterns": [
+      "reframe disputes around social formation: stress rites, education, and habit over abstract individual choice",
+      "argue that unchecked individualism, revolt, or pleasure\u2011calculus corrodes trust and communal order",
+      "stress long\u2011term social consequences (erosion of rites, civic trust, Mandate of Heaven) to rebut adversaries",
+      "contrast concrete pedagogy and institutional reform with opponents' abstract or solitary claims",
+      "charge valorization of power, suffering, or novelty with producing cruelty, caprice, or social fragmentation"
+    ],
+    "defense_patterns": [
+      "reiterate that rites, music, example, and study reliably cultivate sincere virtue (not mere compliance)",
+      "defend rites as substantive, reformable instruments of moral education rather than empty custom",
+      "appeal to alignment with Heaven/Way and to durable social goods to meet existential and moral critiques",
+      "insist on practical remedies (remonstrance, gradual reform, withdrawal of service) rather than revolution",
+      "emphasize that disciplined practice makes right action spontaneous and restrains selfishness"
+    ],
+    "strategic_strengths": [
+      "high coherence and doctrinal consistency\u2014arguments map tightly onto a stable ethical system",
+      "depth in socio\u2011ethical reasoning and pedagogy: concrete institutional and formative resources",
+      "effective dialectical moves against individualism, hedonism, and nihilism by shifting focus to social costs",
+      "robust defensive repertoire (rites, exemplars, remonstrance) usable against many attacks",
+      "predictable, conservative posture that secures trust with audiences valuing order and tradition"
+    ],
+    "typical_targets": [
+      "radical individualism/existentialism (Sartre\u2011type) that elevates isolated autonomy",
+      "nihilism/absurdist revolt (Camus\u2011type) that prizes defiant destruction of order",
+      "hedonism/utilitarian reductionism (Epicurus\u2011type) that collapses justice into pleasure\u2011calculus",
+      "anti\u2011ritual asceticism or cynicism (Diogenes\u2011type) that rejects social forms and obligations",
+      "valorization of power, suffering, or novel self\u2011creation (Nietzsche\u2011type) that threatens communal bonds"
+    ],
+    "vulnerabilities": [
+      "relatively low originality\u2014positions can seem conservative or predictable",
+      "risk of ritual formalism: rites can be accused of hollowing into mere habit or bad faith",
+      "tendency to underplay systemic power, coercion, and the exigencies of brutal regimes",
+      "weaker against purely metaphysical or theological proofs (e.g., claims about soul/afterlife) outside social ethics",
+      "limited appeal to audiences prioritizing radical authenticity, creative transformation, or rapid change"
+    ],
+    "collapse_conditions": [
+      "when rites and institutions become hollow or ossified and lose sincerity (ritual no longer forms virtue)",
+      "under concentrated repression or brutal regimes where remonstrance and withdrawal are impossible or fatal",
+      "when opponents successfully defend individual autonomy or excellence as necessary goods that rites suppress",
+      "when debates hinge on metaphysical/theological claims about the soul or afterlife that social ethics cannot answer",
+      "when rapid social breakdown destroys the institutions (families, schools, rites) that sustain cultivation"
+    ]
+  },
+  {
+    "philosopher": "Diogenes (Cynic)",
+    "core_principles": [
+      "Virtue as the sole highest good; moral worth independent of wealth, praise, or death",
+      "Radical self-sufficiency (autarky) and voluntary poverty as routes to freedom",
+      "Shamelessness and absolute honesty as techniques to escape opinion and expose hypocrisy",
+      "Rejection of man\u2011made conventions, rites, and laws that serve power or vanity",
+      "Meaning forged in practice/lived example rather than metaphysics or posthumous reward"
+    ],
+    "attack_patterns": [
+      "Scornful, performative denunciation of opponents\u2019 comforts, rites, or consolations",
+      "Expose hypocrisy by contrasting rhetorical claims with lived practice (practical exemplification)",
+      "Paint opposing doctrines as fostering dependency, cowardice, or vanity (e.g., hedonists, ritualists, theologians, power\u2011seekers)",
+      "Use blunt, provocative rhetoric and ascetic imagery to delegitimize abstract theorizing"
+    ],
+    "defense_patterns": [
+      "Insist on practice over theory: living example as empirical proof of claims",
+      "Reassert that laws bind only insofar as they promote virtue; otherwise they should be rejected",
+      "Frame austerity and trials as moral training (discipline rather than masochism)",
+      "Reinterpret harsh measures as corrective or 'tough compassion' aimed at producing virtue"
+    ],
+    "strategic_strengths": [
+      "High internal coherence and consistency across positions and replies",
+      "Rhetorical force: vivid, provocative exemplars that effectively expose perceived hypocrisy",
+      "Clear, easily communicated doctrinal core (simple maxims easily tested by action)",
+      "Dialectical effectiveness at undermining performative or comfort\u2011based philosophies"
+    ],
+    "typical_targets": [
+      "Hedonists/comfort\u2011seekers (Epicurean-style positions)",
+      "Ritualists/traditionalists who defend rites that mask power (Confucian-style)",
+      "Theologians/consolers who sacralize suffering or promise posthumous reward (Aquinas-style)",
+      "Philosophies valorizing power, domination, or theatrical greatness (Nietzschean variants)",
+      "Existentialist/intellectual fashions that theatricalize revolt or pity (Camus, Sartre, Hypatia)"
+    ],
+    "vulnerabilities": [
+      "Pragmatic impracticality: prescriptions assume rare, hard-to-achieve autarky and ignore most people's material dependence",
+      "Weakness against social/collective arguments \u2014 neglects communal goods, institutions, and solidarity",
+      "Accusations of cruelty or callousness when contempt for pity looks harmful in practice",
+      "Susceptibility to charge that plainness can be a mask or performance (failure to refute performative plainness)",
+      "Defensive fragility: defenses rely heavily on exemplarity and are less robust to structural or systemic critiques"
+    ],
+    "collapse_conditions": [
+      "When interlocutors foreground unavoidable embodied needs, systemic injustice, or institutional solutions that cannot be met by individual austerity",
+      "When critics demonstrate that genuine autarky is unattainable for most, making prescriptions inapplicable or elitist",
+      "When concrete cases show that radical honesty or rule\u2011breaking produces greater harm than the tolerated deception or compliance",
+      "When opponents successfully reframe plainness as another form of social performance or mask, undermining the credibility of lived exemplar"
+    ]
+  },
+  {
+    "philosopher": "Epicurus",
+    "core_principles": [
+      "Ataraxia and aponia (absence of mental disturbance and bodily pain) are the highest goods",
+      "Pleasure/pain are primary value data but must be governed by prudence/reason",
+      "Virtues (prudence, temperance, justice) are instrumentally valuable to secure tranquility",
+      "Justice is a convention/pact to prevent mutual harm and preserve peaceful conditions",
+      "Friendship is a central instrumental good that sustains long\u2011term tranquility",
+      "Reason/empiricism dispels false fears (esp. gods and death) and orders desires",
+      "Limit vain desires; prefer simple, necessary pleasures"
+    ],
+    "attack_patterns": [
+      "Prudential critique of metaphysical/religious consolations (rejects rites, providence, theological theodicies)",
+      "Target existential/revolt positions as needlessly anxious and disruptive of tranquility (e.g., Sartre, Camus)",
+      "Critique ascetic or heroic suffering as unnecessary and harmful to ataraxia (e.g., Diogenes, Stoic austerity)",
+      "Invoke atomism/naturalism (including clinamen) to undercut teleology and providential accounts",
+      "Emphasize concrete harms and practical consequences of rival doctrines over abstract ideals"
+    ],
+    "defense_patterns": [
+      "Reiterate justice\u2011as\u2011pact and prudential limits: obey laws when they secure tranquility, resist when they cause needless harm",
+      "Reaffirm that pleasure properly understood = freedom from pain/disturbance; virtues serve that end",
+      "Defend teachability of wisdom as therapeutic: argument, example, and friendship free from fear",
+      "Restate empiricism and atomism to justify dispelling fears of gods/death and to ground ethics",
+      "Default commitment to truthfulness, with limited, prudential exceptions when disclosure would cause greater harm"
+    ],
+    "strategic_strengths": [
+      "High coherence and consistency across positions (reliable doctrinal fit)",
+      "Practically oriented, persuasive prudential arguments aimed at reducing concrete suffering",
+      "Robust naturalistic/empiricist framework that deflates supernatural and teleological claims",
+      "Effective emphasis on friendship and social practices to undercut moral skepticism",
+      "Capable, repeatable defenses that reframe alleged cowardice as prudent courage"
+    ],
+    "typical_targets": [
+      "Existentialists emphasizing revolt and anguished value\u2011creation (Sartre, Camus)",
+      "Ascetic or radical individualists/anti\u2011social critics (Diogenes)",
+      "Stoic duty\u2011first figures (e.g., Marcus Aurelius)",
+      "Religious/theological apologists and metaphysicians (e.g., Aquinas)",
+      "Confucian/Taoist ritualists or mystics (Confucius, Lao\u2011Tzu)",
+      "Nietzschean valorization of struggle/power"
+    ],
+    "vulnerabilities": [
+      "Prone to charges of reductionism (reducing morality to prudential self\u2011interest)",
+      "May underappreciate collective, civic, or higher\u2011order moral goods beyond individual tranquility",
+      "Accused of retreat/cowardice or political disengagement when tranquility is prioritized over justice",
+      "Predictability and limited originality \u2014 arguments can be anticipated and labeled conventional",
+      "Dependence on empirical dispelling of fears (gods/death) and on the clinamen \u2014 metaphysical or epistemic challenges weaken the case",
+      "Risk of slippery\u2011slope objections when allowing prudential exceptions (e.g., truthfulness exceptions)"
+    ],
+    "collapse_conditions": [
+      "When tranquility/ataraxia cannot be secured (widespread political violence or social collapse) and prudential withdrawal becomes infeasible",
+      "When opponents successfully establish non\u2011hedonic moral demands or collective duties that require sustained sacrifice",
+      "When reason/empiricism fail to dispel fears about gods or death for the audience, leaving core motivators intact",
+      "When rivals reframe suffering as constitutive of meaning or moral growth in ways that plausibly override prudential calculus"
+    ]
+  },
+  {
+    "philosopher": "Hypatia",
+    "core_principles": [
+      "Neoplatonic/Platonic metaphysics: ascent to the One and participation in intelligible realities",
+      "Primacy of reason and the Nous over sense-perception",
+      "Purification/discipline of the soul through study (mathematics, dialectic) and virtue",
+      "Justice as ordering principle for soul and polis, balanced with measured mercy",
+      "Education and civic cultivation as means to moral and intellectual improvement",
+      "Truth as the proper ideal, with only narrowly defined prudential exceptions"
+    ],
+    "attack_patterns": [
+      "Metaphysical rebuttal: invoke intelligible order/Forms to undermine existentialist and empiricist positions",
+      "Dialectical pressure combining ethical and metaphysical critique (showing social/consequential costs of rivals' doctrines)",
+      "Appeal to civic examples, pedagogy, and historical experience to expose practical harms of opponents",
+      "Stress the need for disciplined study (arith., geometry, dialectic) to bind passions and legitimize claims",
+      "Target rival excesses (unbounded freedom, will-to-power, ritualism, passive gentleness) by highlighting social corruption or impotence"
+    ],
+    "defense_patterns": [
+      "Reassert the metaphysical framework (One, Nous, participation) to answer objections",
+      "Emphasize cultivation, persuasion, law and institutions as practical means rather than coercion",
+      "Frame reason as enabling and refining desires, not as tyrannical repression",
+      "Allow narrowly bounded prudential exceptions (rare silence or deception) while defending truth as the norm",
+      "Offer multi\u2011pronged reforms (education, argument, measured deterrence) to preserve polis and intellect"
+    ],
+    "strategic_strengths": [
+      "High coherence and consistency across positions",
+      "Strong dialectical skill: incisive, historically informed critiques",
+      "Deep metaphysical resources that provide argumentative depth and resilience within tradition",
+      "Effective civic/pedagogical framing that links theory to social practice",
+      "Robust defensive repertoire combining principle and limited practical concessions"
+    ],
+    "typical_targets": [
+      "Existentialists and radical freedom doctrines (e.g., Sartre, Camus)",
+      "Nihilistic or domination-focused positions (e.g., Nietzschean will-to-power)",
+      "Ritualists and unexamined tradition (e.g., ritual/ceremonial conservatism, Confucianism as mere rite)",
+      "Hedonists/atomists who privilege sense-perception (e.g., Epicureanism)",
+      "Religious or theological positions that subordinate reason to revelation or clerical authority (e.g., Aquinas-style fideism)"
+    ],
+    "vulnerabilities": [
+      "Dependence on contested metaphysical premises makes arguments weak against materialists/naturalists",
+      "Perceived elitism or lack of empirical/practical grounding in addressing immediate bodily suffering",
+      "Risk of doctrinal inconsistency when making prudential concessions (undermining absolutist rhetoric)",
+      "Less originality; arguments can read as traditional/conservative rather than novel",
+      "May seem dismissive of experiential or existential claims, weakening appeal to some audiences"
+    ],
+    "collapse_conditions": [
+      "Interlocutors reject metaphysical premises and demand strictly empirical, materialist demonstrations",
+      "Situations of acute social breakdown or emergency where education, law, and persuasion are unavailable or ineffective",
+      "Powerful emotional, political, or populist appeals that sideline reason and civic pedagogy",
+      "Compounding systemic injustice and immediate bodily suffering that outpace slow, educative remedies",
+      "Internal tensions exposed by concessions (when exceptions proliferate and doctrinal coherence erodes)"
+    ]
+  },
+  {
+    "philosopher": "Lao_Tzu",
+    "core_principles": [
+      "wu-wei (non-striving/non-action as skillful, non-coercive responsiveness)",
+      "ziran/spontaneity (action arising from naturalness/the uncarved root)",
+      "simplicity and emptying desire (return to plainness as moral/epistemic cure)",
+      "softness/compassion as strength (water metaphor: yielding defeats force)",
+      "skepticism about fixed names and overconceptualization (ineffability of the Way)",
+      "governance by example and minimal, light law"
+    ],
+    "attack_patterns": [
+      "diagnose opponents as 'forcing' or clinging\u2014portray their methods as generating bondage",
+      "use evocative natural metaphors (water, uncarved wood, root) to displace rivals' frameworks",
+      "redirect debates from abstract justification to practical harmony and removal of causes",
+      "target rites, rigid duties, will-driven virtue, and calculative pleasure-seeking as counterproductive",
+      "rhetorical, poetic critiques that emphasize prudence and preservation over analytic refutation",
+      "frequently reframe strength so opponents' notions of force or heroic striving appear self-defeating"
+    ],
+    "defense_patterns": [
+      "restate and clarify wu-wei as active responsiveness rather than cowardice or mere passivity",
+      "reaffirm metaphors (water, yielding, uncarved block) to show durability of the stance",
+      "emphasize inner cultivation practices (emptying desire, returning to simplicity) as practical method",
+      "defend minimal governance\u2014use law sparingly and govern by example to restore harmony",
+      "repeat core premises to defuse critiques (non-action dissolves knots of strife) rather than engage in fine-grained analytic rebuttal"
+    ],
+    "strategic_strengths": [
+      "high internal coherence and consistency (doctrinally unified worldview)",
+      "philosophical depth and evocative originality (memorable metaphors and imagery)",
+      "effective at redirecting disputes away from opponents' premises toward alternative praxis",
+      "persuasive as a holistic, practice-oriented account of virtue and politics",
+      "moderately strong dialectical attack (able to expose perceived excesses in rival positions)"
+    ],
+    "typical_targets": [
+      "Confucian ritualism / elaborate rites",
+      "Stoic will-driven duty (e.g., Marcus-style prescriptive striving)",
+      "Nietzschean will-to-power / valorization of struggle",
+      "Epicurean/calculative pleasure-seeking",
+      "revolutionary or heroic revolt (Camus, Diogenes-style confrontationalism)",
+      "rule- and law-centered theological or legalist accounts (e.g., Aquinas-style structured norms)",
+      "existentialist self-fashioning that prizes strenuous self-creation (e.g., Sartre)"
+    ],
+    "vulnerabilities": [
+      "seen as passive or insufficient in urgent moral/political crises (accused of inaction)",
+      "vagueness\u2014offers few precise criteria or procedural rules for complex cases",
+      "relies on metaphysical premises (the Tao/ineffability) that opponents can reject",
+      "repetitive defense strategy (reiteration of premises) leaves gaps against demands for analytic precision",
+      "may underplay threats from unrepentant tyrants or actors who will not be swayed by softness"
+    ],
+    "collapse_conditions": [
+      "situations demanding decisive, coercive intervention where non-action increases harm",
+      "facing agents or regimes that exploit softness and do not respond to governing-by-example",
+      "debates that require clear, rule-like criteria, measurable outcomes, or stepwise procedures",
+      "audiences that reject metaphysical/ineffability premises and demand empirical or normative justification",
+      "sustained practical pressure (protracted crises) that expose vagueness or lack of concrete policy tools"
+    ]
+  },
+  {
+    "philosopher": "Marcus Aurelius",
+    "core_principles": [
+      "Reason/Logos as the ruling faculty that must govern impressions and actions",
+      "Virtue (living according to Nature and reason) as the sole true good",
+      "Clear distinction between what is up to us (judgment/assent) and externals (indifferents)",
+      "Withholding assent until impressions are clear/kataleptic; disciplined judgment",
+      "Acceptance of fate and mortality (memento mori) as motivation for right action",
+      "Duty to family, polis, and the common good; cosmopolitan justice",
+      "Truthfulness preferred; silence to avoid falsehood",
+      "Moral formation through habituation, training, and example"
+    ],
+    "attack_patterns": [
+      "Stress the social dangers of passion, pride, and self\u2011creation; portray opponents as socially disruptive",
+      "Argue that pleasure\u2011seeking or withdrawal (Epicurus, Lao Tzu) neglects duty and harms the commonwealth",
+      "Charge existential self\u2011fashioning (Sartre, Nietzsche) with pride, instability, or domination",
+      "Use practical, civic examples and mortality to pressure opponents into showing real\u2011world consequences",
+      "Contrast disciplined reason and order with rivals' perceived passivity, excess, or sentimentalism"
+    ],
+    "defense_patterns": [
+      "Reiterate the up/down control: govern impressions, assent only to kataleptic impressions",
+      "Frame acceptance as active, disciplined agency rather than passive resignation",
+      "Emphasize virtue's sufficiency and the instrumental status of externals and rites",
+      "Defend truthfulness and silence as morally superior to expedient falsehoods",
+      "Point to habituation, training, and tested practice as the means of securing right judgment"
+    ],
+    "strategic_strengths": [
+      "High coherence and internal consistency across positions",
+      "Effective, practically oriented dialectical attacks focused on civic consequences",
+      "Robust, repeatable defenses that reframe passivity as disciplined action",
+      "Psychologically persuasive rhetoric (memento mori, duty, self\u2011command)",
+      "Operationalizable program (habituation, rites as instruments) for moral formation"
+    ],
+    "typical_targets": [
+      "Sartrean existentialism (radical self\u2011creation and subjectivity)",
+      "Epicurean hedonism and pleasure\u2011centric ethics",
+      "Taoist/Lao Tzu passivity or withdrawal",
+      "Nietzschean glorification of power/self\u2011aggrandizement",
+      "Camusian revolt/absurdism",
+      "Confucian ritualism when rites lack inward assent or justice"
+    ],
+    "vulnerabilities": [
+      "Relatively low originality; predictable Stoic repertory",
+      "Portrayals of passivity or emotional coldness invite charge of inflexibility",
+      "Vulnerable to genealogical/skeptical critiques that reason and assent are shaped by drives",
+      "Reliance on kataleptic impressions invites skeptical doubts about perceptual reliability",
+      "Brittleness in hard moral dilemmas (truth vs. life, silence vs. preventing harm)",
+      "Can underplay the moral need for transformative, collective resistance against systemic injustice"
+    ],
+    "collapse_conditions": [
+      "Widespread systemic injustice or oppression that clearly demands robust, collective resistance rather than measured assent",
+      "Successful undermining of the neutrality/reliability of reason or kataleptic impressions (Nietzschean genealogy or radical skepticism)",
+      "Opponents reframing moral authority around creative self\u2011valuation or existential authenticity that makes duty claims less persuasive",
+      "Situations where strict truthfulness or silence predictably causes catastrophic harm, forcing tradeoffs the doctrine lacks machinery to resolve",
+      "Mass political crises requiring passionate mobilization rather than tranquil, individualized discipline"
+    ]
+  },
+  {
+    "philosopher": "Nietzsche",
+    "core_principles": [
+      "Will to power as fundamental drive and value\u2011generator",
+      "Amor fati / eternal return: affirmative embrace of fate and suffering",
+      "Perspectivism: truth as contingent, interpretive, instrumentally judged by life\u2011affirmation",
+      "Self\u2011overcoming and creative self\u2011formation (becoming an artist of oneself)",
+      "Revaluation of values: rejection of herd/ascetic morality, pity, and otherworldly consolation",
+      "Rejection of metaphysical absolutes (sovereign Truth, juridical free will)"
+    ],
+    "attack_patterns": [
+      "Psychological/genealogical diagnosis: exposing opponents' doctrines as life\u2011denying or rooted in ressentiment",
+      "Polemical, rhetorically forceful denunciation of pity, asceticism, and herd morality",
+      "Reframing debates around life\u2011affirmation and creative greatness rather than abstract duty or consolation",
+      "Targeting purported weaknesses: labeling tranquility/prudence/quietism as cowardice or palliation",
+      "Occasional ad hominem or theatrical overreach to delegitimize rivals' motives and values"
+    ],
+    "defense_patterns": [
+      "Doubling down on will\u2011to\u2011power, perspectivism, and amor fati as positive programs (value\u2011creation)",
+      "Distinguishing noble/creative strength from petty cruelty; portraying generosity as overflow of strength",
+      "Recasting critiques of truth, duty, and free will as emancipatory and life\u2011affirming",
+      "Emphasizing disciplined self\u2011overcoming and aesthetic formation rather than mere domination",
+      "Persistent insistence that external duties and consolations mask decadence and hinder greatness"
+    ],
+    "strategic_strengths": [
+      "High rhetorical and dialectical force: incisive, memorable polemic that reframes issues on Nietzsche's terms",
+      "Internal coherence and consistency around a compact doctrinal core (will to power, perspectivism, amor fati)",
+      "Ability to expose hidden psychological motives and commonalities across rival positions",
+      "Depth and originality in revaluating values and offering an affirmative alternative to ascetic/otherworldly views",
+      "Effective at shifting normative standards from abstract duties to life\u2011affirmation metrics"
+    ],
+    "typical_targets": [
+      "Christian/medieval/ascetic morality (Aquinas, priestly otherworldliness)",
+      "Compassion/pity and egalitarian moralizing (Camus, sentimental humanism, certain Sartrean moves)",
+      "Quietist/tranquillizing traditions (Epicurus, Lao Tzu, Stoicism/Marcus) portrayed as life\u2011denying",
+      "Claims to metaphysical certainty and juridical free will (objectivist epistemologies, absolute Truth)",
+      "Rituals and social practices that preserve mediocrity or herd petrification (Confucian/communal conservatism)"
+    ],
+    "vulnerabilities": [
+      "Tendency toward perceived elitism, legitimation of domination, or cruelty\u2014invites charges of tyranny",
+      "Practical/social consequences under\u2011addressed: risks to social cohesion, trust, and basic security",
+      "Perspectivism/self\u2011undermining objection: the doctrine can be used to attack its own claims",
+      "Reliance on rhetorical overreach and caricature can weaken credibility against careful interlocutors",
+      "Lack of concrete normative criteria beyond 'life\u2011affirmation' invites accusations of arbitrariness"
+    ],
+    "collapse_conditions": [
+      "When opponents force sustained focus on social harms, collective stability, or empirical consequences of policy",
+      "When critics demand non\u2011perspectival, public criteria for adjudicating conflicting values (practical normative guidance)",
+      "When perspectivist claims are turned reflexively on Nietzschean claims, exposing self\u2011referential incoherence",
+      "When polemic is exposed as caricature or ad hominem and audiences require rigor over rhetorical force",
+      "When emphasis on higher types and overflow generosity fails to specify who qualifies or how social costs are justified"
+    ]
+  },
+  {
+    "philosopher": "Sartre",
+    "core_principles": [
+      "Radical freedom: existence precedes essence; agents constitute values by choosing projects",
+      "Absolute responsibility: choices must be owned and are consequential (one 'legislates' for humanity)",
+      "Bad faith diagnosis: evasions (rituals, teleology, tranquility, habit) are forms of self\u2011deception",
+      "Authenticity as moral ideal: act only by freely endorsed projects that preserve self\u2011 and other\u2011freedom",
+      "Reason is instrumental: clarifies means but cannot supply ultimate ends or metaphysical grounding",
+      "Anguish/facticity: contingency and mortality disclose freedom but do not supply meaning",
+      "Values arise in praxis: concrete projects and solidarity instantiate moral claims, not abstract goods"
+    ],
+    "attack_patterns": [
+      "Recast opponents as committing bad faith (showing their doctrines as evasions of freedom)",
+      "Target appeals to transcendence/essence/teleology as smuggling in pre\u2011given goods",
+      "Attack rituals, tradition, or tranquil dispositions as role\u2011enforcing escapes from responsibility",
+      "Charge reductionisms (habit, drives, prudential calculation) with denying authentic project\u2011making",
+      "Press opponents on ownership and concrete consequences of their claims\u2014force praxis and solidarity tests",
+      "Use phenomenological/lived examples to expose hypocrisy or conceptual gaps"
+    ],
+    "defense_patterns": [
+      "Reiterate core existential claims (freedom, responsibility, ownership) as the default answer",
+      "Insist the moral test is whether actions are freely owned (e.g., 'did I own the lie and its consequences?')",
+      "Allow instrumental use of reason, law, rites only when freely endorsed as projects",
+      "Emphasize immediate certainty of consciousness and the primacy of praxis over metaphysical proofs",
+      "Frame virtues and institutions as valid only insofar as they are freely chosen and expand freedom"
+    ],
+    "strategic_strengths": [
+      "High coherence and internal consistency across positions (metrics support strong doctrinal unity)",
+      "Powerful dialectical moves: consistently reframes debates around bad faith and responsibility",
+      "Effective at exposing metaphysical consolations and complacent practices as evasions",
+      "Resilient rhetorical defense that redirects critiques to ownership and praxis",
+      "Frequent use of concrete examples to dramatize failures of opposing views"
+    ],
+    "typical_targets": [
+      "Teleological/essentialist doctrines (appeals to God, Nature, immutable Goods)",
+      "Ritualists and tradition\u2011based systems that prescribe roles or rites without endorsement",
+      "Schools valorizing tranquility, resignation, or consolatory accounts of death (Stoics, Epicureans, some Camus readings)",
+      "Reductionist accounts that explain ethics as habit, drives, or prudential calculation"
+    ],
+    "vulnerabilities": [
+      "Limited positive normative guidance\u2014offers few systematic institutional prescriptions",
+      "Abstractness and potential lack of practical detail for social cohesion or policy",
+      "Susceptibility to deterministic, empirical, or psychological rebuttals that constrain freedom",
+      "Tendency to underplay unconscious/embodied determinants and socio\u2011structural limits on choice",
+      "Risk that stressing ownership alone fails to ground intersubjective norms or long\u2011term institutions"
+    ],
+    "collapse_conditions": [
+      "When opponents supply convincing intersubjective or institutional mechanisms that secure freedom without being bad\u2011faith evasions",
+      "When empirical or structural evidence shows socio\u2011economic, psychological, or biological constraints severely limit genuine choice",
+      "When formation/habituation accounts are shown compatible with authentic endorsement (weakening the bad\u2011faith charge)",
+      "When rites, laws, or traditions demonstrably instantiate and sustain others' freedom rather than merely imposing roles"
+    ]
+  }
+]
